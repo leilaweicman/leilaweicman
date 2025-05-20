@@ -11,8 +11,8 @@
 🔹 [CV Interactivo](https://leilaweicman.github.io/interactive-cv/)  
 Sitio web responsivo para presentar mi perfil profesional de forma clara, visual y accesible.
 
-🔹 Portfolio web (en desarrollo)  
-Landing page personal donde mostraré proyectos, tecnologías y enlaces a mis redes profesionales.
+🔹 [Portfolio web](https://github.com/leilaweicman/portfolio) (en desarrollo)  
+Página personal donde mostraré proyectos, tecnologías y enlaces a mis redes profesionales.
 
 ---
 
@@ -43,4 +43,3 @@ Landing page personal donde mostraré proyectos, tecnologías y enlaces a mis re
 
 - 📧 [leilaweic@gmail.com](mailto:tuemail@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/leila-weicman/)
-- 🌐 [Sitio web personal](https://github.com/leilaweicman)
